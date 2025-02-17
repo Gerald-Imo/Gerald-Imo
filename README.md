@@ -9,7 +9,7 @@
 
 <h2>📄 Tech Certifications</h2>
 
-- [United Nations Data Analystics Professional Certificate](https://www.youtube.com/watch?v=dTtuKL-E5M4&ab_channel=GeraldImo)
+- [United Nations Data Analystics Professional Certificate](https://www.credential.net/d71fa732-7705-4986-b836-19501c48c348#acc.BuIbaqCj)
 
 <h2>📺 My Ideas YouTube Videos</h3><h2>📺 My Ideas YouTube Videos</h2>
 
