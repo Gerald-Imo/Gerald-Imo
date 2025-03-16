@@ -23,7 +23,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: https://twitter.com/joshmadakor
+[twitter]: https://x.com/Geraldimo1
 [youtube]: https://www.youtube.com/c/joshmadakor
 [linkedin]: https://www.linkedin.com/in/gerald-imo/
 
