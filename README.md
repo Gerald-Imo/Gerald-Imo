@@ -1,6 +1,6 @@
 <h1>Hi, I'm Gerald! </h1>
 
-<h2>👨🏽‍💻🌿 Corporate ESG Analytics, Sustainability Analytics & Business Intelligence Projects:</h2>
+<h2>👨🏽‍💻🌿  Sustainability Data Analyst, ESG Analyst, Sustainability & Business Intelligence</h2>
 
 - [Active Directory Home Lab](https://github.com/Gerald-Imo/Gerald-Imo/edit/main/README.md)
 
@@ -32,7 +32,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
